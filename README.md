@@ -2,6 +2,7 @@
 Thanks for sharing the screenshots of your **Telecom Churn Prediction** project on **IBM Watsonx AutoAI**. Here's a breakdown of what you're seeing in each screenshot, along with the **steps you likely followed** (and may have forgotten) to reach this stage.
 
 ---
+Link to project notebook-  https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/6b2a60b7-6179-49c7-8354-46e44d92c975/view?access_token=91c1102349858837f6dbe0065857dcf651656dc376f1a2e5c1e8d5d46bee49ec&context=cpdaas
 
 ## ✅ **What the Screenshots Show**
 
@@ -108,3 +109,4 @@ Metrics shown (cross-validation scores) for all pipelines:
 ![Screenshot 2025-06-09 223546](https://github.com/user-attachments/assets/e7b3c1d5-fad9-47e9-926c-60a05055d776)
 ![Screenshot 2025-06-09 223645](https://github.com/user-attachments/assets/7bdf5625-50f0-4e11-8199-e425bd3c7b89)
 ![Screenshot 2025-06-09 223620](https://github.com/user-attachments/assets/259d9f64-14d0-49b0-9ba0-21bf36b1cada)
+![Screenshot 2025-06-10 003556](https://github.com/user-attachments/assets/f6023154-4f13-416a-91e8-734b0e3e2bb9)
